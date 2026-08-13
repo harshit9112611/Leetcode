@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshit9112611/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/harshit9112611/Leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
