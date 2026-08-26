@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/harshit9112611/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0486-predict-the-winner](https://github.com/harshit9112611/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit9112611/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/harshit9112611/Leetcode/tree/master/0877-stone-game) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/harshit9112611/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshit9112611/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit9112611/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshit9112611/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit9112611/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/harshit9112611/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1386-cinema-seat-allocation](https://github.com/harshit9112611/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshit9112611/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshit9112611/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
