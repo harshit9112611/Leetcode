@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshit9112611/Leetcode/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/harshit9112611/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshit9112611/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0486-predict-the-winner](https://github.com/harshit9112611/Leetcode/tree/master/0486-predict-the-winner) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshit9112611/Leetcode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/harshit9112611/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit9112611/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit9112611/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshit9112611/Leetcode/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/harshit9112611/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/harshit9112611/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshit9112611/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
