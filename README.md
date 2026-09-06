@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/harshit9112611/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/harshit9112611/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/harshit9112611/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshit9112611/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/harshit9112611/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/harshit9112611/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/harshit9112611/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harshit9112611/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harshit9112611/Leetcode/tree/master/1140-stone-game-ii) |
