@@ -9,15 +9,11 @@ class Solution {
 
     public void reverse(int[] nums, int first, int last) {
       while(first<last) {
-        swap(nums,first,last);
+        int temp=nums[first];
+        nums[first]=nums[last];
+        nums[last]=temp;
         first++;
         last--;
       }
-    }
-
-    public void swap(int[] nums, int i, int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-    }
+   }
 }
