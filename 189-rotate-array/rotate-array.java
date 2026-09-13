@@ -8,13 +8,10 @@ class Solution {
     }
 
     public void reverse(int[] nums, int first, int last) {
-      int n= last-first+1;
-      int i=0;
-      while(i<=n/2-1) {
+      while(first<last) {
         swap(nums,first,last);
         first++;
         last--;
-        i++;
       }
     }
 
