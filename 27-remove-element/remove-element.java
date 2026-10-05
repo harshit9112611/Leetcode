@@ -7,6 +7,7 @@ class Solution {
                 k++;
             }
         }
+        System.gc();
         return k;
     }
 }
