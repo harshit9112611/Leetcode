@@ -31,6 +31,7 @@ public class Solution {
                 d2=d2.next;
             }
         }
+        System.gc();
         return d2;
     }
 }
