@@ -15,6 +15,7 @@ class Solution {
             }
             pow=pow*2;
         }
+        System.gc();
         return result;
     }
 }
