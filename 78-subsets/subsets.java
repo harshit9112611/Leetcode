@@ -1,26 +1,16 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        backtrack(0, nums, new ArrayList<>(), result);
-        return result;
-    }
-
-    private void backtrack(int index, int[] nums, List<Integer> current, List<List<Integer>> result) {
-        if (index == nums.length) {
-            result.add(new ArrayList<>(current));
-            return;
+        List<List<Integer>> list =new ArrayList<>();
+        int x=1<<nums.length;
+        for(int i=0;i<x;i++) {
+            List<Integer> list2=new ArrayList<>();
+            for(int j=0;j<nums.length;j++) {
+                if((i&(1<<j))!=0) {
+                    list2.add(nums[j]);
+                }
+            }
+            list.add(list2);
         }
-
-        // Decision to INCLUDE nums[index]
-        current.add(nums[index]);
-        backtrack(index + 1, nums, current, result);
-
-        // Backtrack
-        current.remove(current.size() - 1);
-
-        // Decision to EXCLUDE nums[index]
-        backtrack(index + 1, nums, current, result);
+        return list;
     }
 }
