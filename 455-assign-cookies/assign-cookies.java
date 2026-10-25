@@ -4,13 +4,13 @@ class Solution {
         mergeSort(s,0,s.length-1);
         int l=0;
         int r=0;
-        while(l<g.length && r<s.length) {
-            if(g[l] <= s[r]) {
-                l++;
+        while(r<g.length && l<s.length) {
+            if(g[r] <= s[l]) {
+                r++;
             }
-            r++;
+            l++;
         }
-        return l;
+        return r;
     }
 
     public void mergeSort(int[] nums, int low, int high) {
